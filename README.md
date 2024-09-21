@@ -18,8 +18,6 @@ This project is built using:
 - **GSAP (GreenSock Animation Platform)** ✨  
   A powerful animation library that allows for high-performance animations. GSAP makes the hover effects and image pop-ups smooth and engaging.
 
-- **Tailwind CSS** 🌈  
-  A utility-first CSS framework that provides a highly customizable design system with minimal CSS writing.
 
 ## 🚀 Get Started
 
