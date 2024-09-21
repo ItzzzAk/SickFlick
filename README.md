@@ -2,6 +2,8 @@
 
 A sleek and interactive website showcasing hover animations using **GSAP**. When you hover over the items, images smoothly pop up and follow your cursor for a dynamic and engaging experience. The animations are designed to bring creativity to the forefront, making it ideal for portfolios, galleries, and other visually driven websites.
 
+![Preview](./images/preview.png)
+
 ## 🛠 Tech Stack
 
 This project is built using:
